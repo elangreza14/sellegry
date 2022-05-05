@@ -1,0 +1,22 @@
+{
+  "name": "sellegry",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8080",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "formik": "^2.1.5",
+    "next": "9.5.3",
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-icons": "^3.11.0",
+    "react-transition-group": "^4.4.1",
+    "sass": "^1.26.11",
+    "yup": "^0.29.3"
+  }
+}
